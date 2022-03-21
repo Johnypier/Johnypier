@@ -1,7 +1,7 @@
 
 ---
 
-<p align=center><img src="https://i.imgur.com/RXUtdRY.gif" width="700" height="400"></p>
+<p align=center><img src="https://i.imgur.com/agjKcti.png"></p>
 
 
 <h2 align=center>:sparkles:Social:sparkles:</h2>
