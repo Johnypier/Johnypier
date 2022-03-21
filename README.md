@@ -1,6 +1,7 @@
 
 ---
-<p align=center><img src="https://i.imgur.com/B4vsEzm.gif" width="800" height="500"></p>
+
+<p align=center><img src="https://i.imgur.com/RXUtdRY.gif" width="700" height="400"></p>
 
 ---
 
