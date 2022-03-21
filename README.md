@@ -1,4 +1,4 @@
-<p align=center><img src="https://i.imgur.com/agjKcti.png"></p>
+<p align=center><img src="https://i.imgur.com/eZn9dUA.png"></p>
 
 
 <h2 align=center>:sparkles:Social:sparkles:</h2>
