@@ -1,7 +1,7 @@
 <p align=center><img src="https://i.imgur.com/eZn9dUA.png"></p>
 
 
-<h2 align=center>:sparkles:Social:sparkles:</h2>
+<h2 align=center>:sparkles:Socials:sparkles:</h2>
 <div align=center>
   <a href="https://open.spotify.com/user/5y7hfyd9smyctho59qbo78hns"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/Blessthegodemperor/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
