@@ -1,4 +1,4 @@
-<p align=center><img src="https://i.imgur.com/eZn9dUA.png"></p>
+<p align=center><img src="https://github.com/Johnypier/Johnypier/blob/main/Github%20Background%20Red.png"></p>
 
 
 <h2 align=center>:sparkles: Socials :sparkles:</h2>
