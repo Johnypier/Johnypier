@@ -1,5 +1,5 @@
 ![Johnypier's Banner](https://github.com/Johnypier/Johnypier/blob/main/Github%20Background%20Red.png)
-## :rocket: General Information :artificial_satellite:
+# General Information
 |Operating Systems|IDE|Socials|Languages|Office|Other|
 |-----------------|---|-------------|---------------------|------|-----|
 |![Fedora Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)|![INTELLIj](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)|![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)|
@@ -10,5 +10,5 @@
 |||![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)|||![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
 ||||||![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
 
-## :book: Metrics :book:
+# Metrics
 ![Johnpier's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnypier&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnypier&theme=github_dark)
