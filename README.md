@@ -1,4 +1,4 @@
-![Johnypier's Banner](https://github.com/Johnypier/Johnypier/blob/main/Github%20Background%20Red.png)
+![Johnypier's Banner](Github%20Background%20Red.png)
 # General Information
 |Operating Systems|IDE|Socials|Languages|Office|Other|
 |-----------------|---|-------------|---------------------|------|-----|
