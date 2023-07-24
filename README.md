@@ -9,6 +9,3 @@
 |![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)||<a href="https://steamcommunity.com/id/Johnypier/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>||![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)|![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)|
 |||![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)|||![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
 ||||||![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
-
-# Metrics
-![Johnpier's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnypier&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnypier&theme=github_dark)
