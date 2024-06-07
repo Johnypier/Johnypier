@@ -1,4 +1,3 @@
-![Johnypier's Banner](Github%20Background%20Red.png)
 # Socials
 - Discord: [@johnypier](https://discord.com/users/503505263119040522)
 
