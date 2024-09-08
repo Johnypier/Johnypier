@@ -1,4 +1,4 @@
-# Socials
+# Contacts
 - Discord: [@johnypier](https://discord.com/users/503505263119040522)
 
 # Skills
