@@ -18,5 +18,5 @@
 
 ### Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.parmacli@proton.me)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-parmacli)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ivan-parmacli-252254334)
 [![Steam](https://img.shields.io/badge/steam-%23171a21.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/johnypier/)
